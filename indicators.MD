@@ -52,6 +52,7 @@ This document provides a comprehensive list of commonly used World Bank indicato
 | EN.ATM.CO2E.GF.KT | CO2 emissions from gaseous fuel consumption (kt) |
 | EN.ATM.CO2E.LF.KT | CO2 emissions from liquid fuel consumption (kt) |
 | EN.ATM.CO2E.SF.KT | CO2 emissions from solid fuel consumption (kt) |
+| EN.ATM.CO2E.KD.GD | CO2 emissions (kg per 2015 US$ of GDP) |
 | EN.ATM.GHGT.KT.CE | Total greenhouse gas emissions (kt of CO2 equivalent) |
 | EN.ATM.METH.KT.CE | Methane emissions (kt of CO2 equivalent) |
 | EN.ATM.NOXE.KT.CE | Nitrous oxide emissions (thousand metric tons of CO2 equivalent) |
@@ -88,7 +89,6 @@ This document provides a comprehensive list of commonly used World Bank indicato
 | AG.LND.AGRI.ZS | Agricultural land (% of land area) |
 | AG.LND.FRST.ZS | Forest area (% of land area) |
 | AG.LND.FRST.K2 | Forest area (sq. km) |
-| EN.ATM.CO2E.KD.GD | CO2 emissions (kg per 2015 US$ of GDP) |
 | AG.LND.CROP.ZS | Arable land (% of land area) |
 | AG.YLD.CREL.KG | Cereal yield (kg per hectare) |
 | AG.PRD.FOOD.XD | Food production index (2014-2016 = 100) |
