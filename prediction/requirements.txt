@@ -1,0 +1,13 @@
+# Prediction Module Requirements
+
+# For Claude API
+anthropic>=0.18.0
+
+# For GitHub Models API
+requests>=2.31.0
+
+# For statistical analysis
+numpy>=1.24.0
+
+# For configuration management
+pyyaml>=6.0.0

@@ -1,0 +1,7 @@
+# Prediction Module - ignore config file with actual credentials
+config/config.yaml
+*.pyc
+__pycache__/
+.DS_Store
+output/
+!requirements.txt
